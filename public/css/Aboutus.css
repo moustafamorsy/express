@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+
+padding: 30px;
+background-color: gray;
+}
+
+ul{
+    display: flex;
+list-style: none;
+
+}
+
+
+a{
+text-decoration: none;
+padding-left: 50px;
+color: white;
+}
+
+.services{
+    margin-top: 50px;
+   
+}
+
+.services{
+    text-align: center;
+    margin-top: 50px;
+    line-height: 50px;
+}
